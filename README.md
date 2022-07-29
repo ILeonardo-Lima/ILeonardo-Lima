@@ -13,9 +13,8 @@
 </div>
  
  <br>
-  
-    ### Me siga nas redes sociais abaixo!
-
+ 
+   ## Me siga nas redes sociais abaixo!
   
 <div>
   
