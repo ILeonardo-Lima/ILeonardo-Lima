@@ -19,14 +19,15 @@
 <div>
   
   <a href="https://instagram.com/ileo_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ileo_lima" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%1771E6?style=for-the- badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://web.facebook.com/leonardo.deoliveiralima.54" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the- badge&logo=facebook&logoColor=white" target="_blank"></a>
   
  
  <br>
  
  ## Contatos!
  
- <a href = "mailto:leonardolimaoliveira5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+ <a href="https://contate.me/leonardo.lima" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%11E4405F?style=for-the- badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+  <a href="mailto:leonardolimaoliveira5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E0090F?style=for-the- badge&logo=Gmail&logoColor=white" target="_blank"></a>
   
   ![Animação de cobra](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.svg)
 
