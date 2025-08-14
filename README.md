@@ -19,7 +19,7 @@
 <div>
   
   <a href="https://instagram.com/ileo_lima" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32" height="32"/></a>
-  <a href="(https://www.linkedin.com/in/leonardo-de-oliveira-lima-8b1579291/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32"/></a>
+  <a href="https://www.linkedin.com/in/leonardo-de-oliveira-lima-8b1579291/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32"/></a>
   
  
  <br>
