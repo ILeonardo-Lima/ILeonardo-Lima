@@ -19,6 +19,7 @@
 <div>
   
   <a href="https://instagram.com/ileo_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="32" height="32"/>](https://instagram.com/seu_usuario)
   <a href="https://web.facebook.com/leonardo.deoliveiralima.54" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the- badge&logo=facebook&logoColor=white" target="_blank"></a>
   
  
