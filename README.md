@@ -29,6 +29,6 @@
  <a href="https://contate.me/leonardo.lima" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%11E4405F?style=for-the- badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
   <a href="mailto:leonardolimaoliveira5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23E0090F?style=for-the- badge&logo=Gmail&logoColor=white" target="_blank"></a>
   
-  ![Animação de cobra](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.gif)
 
 </div>
