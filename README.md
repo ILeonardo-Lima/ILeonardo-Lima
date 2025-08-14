@@ -27,7 +27,7 @@
  ## Contatos!
  
  <a href="https://contate.me/leonardo.lima" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%11E4405F?style=for-the- badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
-  <a [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/>](mailto:leonardolimaoliveira5@gmail.com)</a>
+  <a <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/>(mailto:leonardolimaoliveira5@gmail.com)</a>
   
   ![snake gif](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.gif)
 
