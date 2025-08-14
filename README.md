@@ -5,7 +5,8 @@
  <div>
    <a href="https://github.com/ILeonardo-Lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=0"/>
+
 
 </div>
 
@@ -17,7 +18,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 
 </div>
  
