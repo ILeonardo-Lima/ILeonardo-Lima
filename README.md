@@ -19,6 +19,7 @@
 </div>
  
  <br>
+ 
    ## Follow me!!!
   
  <div>
@@ -26,6 +27,7 @@
   <a href="https://www.linkedin.com/in/leonardo-de-oliveira-lima-8b1579291/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32"/></a>
 
   <br>
+  
  ## Contatos!
  
   <a href="https://wa.me/5524992940839" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
