@@ -5,7 +5,7 @@
  <div>
    <a href="https://github.com/ILeonardo-Lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=0"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=0"/>
 
 
 </div>
@@ -18,7 +18,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 
 
 </div>
@@ -43,9 +43,8 @@
 
  ![snake gif](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake.svg">
-
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
