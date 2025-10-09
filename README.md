@@ -6,7 +6,8 @@
    <a href="https://github.com/ILeonardo-Lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=15&theme=tokyonight&cache_seconds=0&rand=12365"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=15&theme=tokyonight&hide=html,css,javascript&exclude_repo=repo1,repo2"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=15&theme=tokyonight&cache_seconds=1800&random=12345"/>
+
 </div>
        
 <div style="display: inline_block"><br>
