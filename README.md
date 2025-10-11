@@ -2,16 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Olá!+👋;+Sou+Leonardo+Oliveira;+Seja+bem+vindo(a)!;" />
 </h2>
 
- <div>
+<div align="center">
    <a href="https://github.com/ILeonardo-Lima">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=15&theme=dark&cache_seconds=0&rand=14327"/>
-     <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
-
-
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&include_all_commits=true&line_height=20&theme=dark&count_private=true" />
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=200&theme=dark&cache_seconds=0&rand=14327"/>
 </div>
        
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -35,10 +32,12 @@
  
   <a href="https://wa.me/5524992940839" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardolimaoliveira5@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/></a>
+</div>
+
 
  ![snake gif](https://github.com/ILeonardo-Lima/ILeonardo-Lima/blob/output/github-contribution-grid-snake.svg)
 
- <picture>
+ <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ILeonardo-Lima/ILeonardo-Lima/output/github-contribution-grid-snake.svg">
  </picture>
