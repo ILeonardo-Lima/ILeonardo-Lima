@@ -6,6 +6,7 @@
    <a href="https://github.com/ILeonardo-Lima">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=15&theme=dark&cache_seconds=0&rand=14327"/>
+     <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
 
 
 </div>
