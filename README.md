@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=90&duration=4000&lines=Olá!+👋;+Sou+Leonardo+Oliveira;+Seja+bem+vindo(a)!;" />
 </h2>
 
-<div align="center">
+<div>
    <a href="https://github.com/ILeonardo-Lima">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&include_all_commits=true&line_height=20&theme=dark&count_private=true" />
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=200&theme=dark&cache_seconds=0&rand=14327"/>
