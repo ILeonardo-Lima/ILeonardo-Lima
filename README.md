@@ -4,8 +4,8 @@
 
 <div align="center">
    <a href="https://github.com/ILeonardo-Lima">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ILeonardo-Lima&show_icons=true&include_all_commits=true&line_height=20&theme=dracula&count_private=true" />
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=200&theme=dracula&cache_seconds=0&rand=17677"/>
+   <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api?username=ILeonardo-Lima&show_icons=true&include_all_commits=true&line_height=20&theme=dracula&count_private=true" />
+   <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=200&theme=dracula&cache_seconds=0&rand=17677"/>
 </div>
        
 <div align="center" style="display: inline_block"><br>
