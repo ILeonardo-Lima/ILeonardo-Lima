@@ -8,7 +8,7 @@
    <img height="170em" src="https://github-readme-stats-eta-seven.vercel.app/api/top-langs/?username=ILeonardo-Lima&layout=compact&langs_count=200&theme=dracula&cache_seconds=0&rand=17578"/>
 </div>
        
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: grid"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -30,7 +30,8 @@
   
  ## Contatos!
  
-  <a href="https://wa.me/5524992940839" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardolimaoliveira5@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/></a>
+  <a href="https://wa.me/5524992940839" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="32" height="32"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardolimaoliveira5@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32"/></a>
 </div>
 
 
